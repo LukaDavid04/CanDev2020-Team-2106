@@ -5,7 +5,7 @@ Custom View: 01/01/19 - 31/08/19
 			
 			
 			
-	Countries	Visits	% Visits
+#	Countries	Visits	% Visits
 1	Canada (CA)	431526	0.72445
 2	United States (US)	115256	0.19349
 3	India (IN)	6227	0.01045

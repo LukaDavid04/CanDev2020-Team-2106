@@ -1,0 +1,1012 @@
+"001 - Industry Canada (Top Level) - with IC Client Registration & POI Maps - external traffic only"
+
+"Custom View: 01/01/19 - 31/08/19"
+"2019-01-01 00:00:00","2019-08-31 23:59:59"
+
+
+"Cities"
+,"City","Visits","% Visits"
+1,"Toronto, Canada",122711,0.20696
+2,"Montreal, Canada",47902,0.08079
+3,"Ottawa, Canada",36738,0.06196
+4,"Providence, Utah, United States",34883,0.05883
+5,"Seattle, Washington, United States",19109,0.03223
+6,"Calgary, Canada",14572,0.02458
+7,"Redmond, Washington, United States",13978,0.02358
+8,"Vancouver, Canada",13194,0.02225
+9,"Falls Church, Virginia, United States",12528,0.02113
+10,"Mississauga, Canada",11641,0.01963
+11,"Edmonton, Canada",8519,0.01437
+12,"Chatham, Canada",7130,0.01203
+13,"Markham, Canada",6904,0.01164
+14,"North York, Canada",6855,0.01156
+15,"Quebec, Canada",6826,0.01151
+16,"Burlington, Canada",6722,0.01134
+17,"Etobicoke, Canada",6595,0.01112
+18,"Winnipeg, Canada",6344,0.0107
+19,"Burnaby, Canada",5034,0.00849
+20,"Washington, D.C., United States",4349,0.00733
+21,"London, Canada",4125,0.00696
+22,"Halifax, Canada",4057,0.00684
+23,"Kitchener, Canada",3401,0.00574
+24,"Victoria, Canada",3242,0.00547
+25,"Jacksonville, Canada",3144,0.0053
+26,"Regina, Canada",2918,0.00492
+27,"Kelowna, Canada",2654,0.00448
+28,"Scarborough, Canada",2501,0.00422
+29,"Dieppe, Canada",2498,0.00421
+30,"Moncton, Canada",2360,0.00398
+31,"Longueuil, Canada",2043,0.00345
+32,"Pierrefonds, Canada",2019,0.00341
+33,"Saskatoon, Canada",1885,0.00318
+34,"Saint John, Canada",1885,0.00318
+35,"New York, New York, United States",1797,0.00303
+36,"Barrie, Canada",1782,0.00301
+37,"Brampton, Canada",1767,0.00298
+38,"Sudbury, Canada",1762,0.00297
+39,"Langley, Canada",1614,0.00272
+40,"Mumbai, India",1545,0.00261
+41,"Dorval, Canada",1526,0.00257
+42,"Trois-Rivieres, Canada",1474,0.00249
+43,"Hamilton, Canada",1453,0.00245
+44,"Kingston, Canada",1427,0.00241
+45,"Dartmouth, Canada",1358,0.00229
+46,"Fredericton, Canada",1345,0.00227
+47,"St. John's, Canada",1334,0.00225
+48,"Paris, France",1317,0.00222
+49,"Gatineau, Canada",1311,0.00221
+50,"Windsor, Canada",1301,0.00219
+51,"London, United Kingdom",1282,0.00216
+52,"Saint-Laurent, Canada",1223,0.00206
+53,"San Jose, California, United States",1206,0.00203
+54,"Pickering, Canada",1189,0.00201
+55,"Waterloo, Canada",1178,0.00199
+56,"Squamish, Canada",1130,0.00191
+57,"Charlottetown, Canada",1102,0.00186
+58,"Ajax, Canada",1079,0.00182
+59,"Newmarket, Canada",1057,0.00178
+60,"Nepean, Canada",1046,0.00176
+61,"Verdun, Canada",1032,0.00174
+62,"Atlanta, Georgia, United States",1029,0.00174
+63,"Surrey, Canada",977,0.00165
+64,"Laval, Canada",969,0.00163
+65,"Sherbrooke, Canada",957,0.00161
+66,"Hong Kong, Hong Kong",952,0.00161
+67,"Guelph, Canada",947,0.0016
+68,"Los Angeles, California, United States",930,0.00157
+69,"Amsterdam, Netherlands",920,0.00155
+70,"Woodbridge, Canada",902,0.00152
+71,"Richmond, Canada",888,0.0015
+72,"Gloucester, Canada",880,0.00148
+73,"Oakville, Canada",846,0.00143
+74,"Seoul, Korea (South)",843,0.00142
+75,"New Westminster, Canada",836,0.00141
+76,"Cambridge, Canada",825,0.00139
+77,"Tokyo, Japan",818,0.00138
+78,"Makati, Philippines",800,0.00135
+79,"Nanaimo, Canada",785,0.00132
+80,"Abbotsford, Canada",782,0.00132
+81,"Red Deer, Canada",781,0.00132
+82,"Ghansoli, India",740,0.00125
+83,"Ashburn, Virginia, United States",734,0.00124
+84,"Mont-Royal, Canada",711,0.0012
+85,"Tehran, Iran",699,0.00118
+86,"Whitehorse, Canada",688,0.00116
+87,"Port Coquitlam, Canada",684,0.00115
+88,"Newark, New Jersey, United States",681,0.00115
+89,"Mexico City, Mexico",673,0.00114
+90,"Chicago, Illinois, United States",654,0.0011
+91,"Islamabad, Pakistan",645,0.00109
+92,"Coquitlam, Canada",640,0.00108
+93,"Delhi, India",634,0.00107
+94,"Brantford, Canada",631,0.00106
+95,"Rimouski, Canada",629,0.00106
+96,"Sydney, Canada",620,0.00105
+97,"Kamloops, Canada",617,0.00104
+98,"Thunder Bay, Canada",609,0.00103
+99,"Taipei, Taiwan",607,0.00102
+100,"Bangalore, India",603,0.00102
+101,"Prince George, Canada",596,0.00101
+102,"North Vancouver, Canada",592,0.001
+103,"New Delhi, India",576,0.00097
+104,"Dallas, Texas, United States",572,0.00096
+105,"Orleans, Canada",553,0.00093
+106,"Orangeville, Canada",551,0.00093
+107,"Levis, Canada",525,0.00089
+108,"Malton, Canada",513,0.00087
+109,"Lagos, Nigeria",513,0.00087
+110,"St Catharines, Canada",510,0.00086
+111,"Grande Prairie, Canada",497,0.00084
+112,"Woodstock, Canada",492,0.00083
+113,"Kanata, Canada",491,0.00083
+114,"Milton, Canada",490,0.00083
+115,"Dubai, United Arab Emirates",487,0.00082
+116,"Singapore, Singapore",474,0.0008
+117,"Corner Brook, Canada",465,0.00078
+118,"Lethbridge, Canada",459,0.00077
+119,"Moscow, Russian Federation",457,0.00077
+120,"Magog, Canada",456,0.00077
+121,"Stratford, Canada",453,0.00076
+122,"Drummondville, Canada",451,0.00076
+123,"San Francisco, California, United States",447,0.00075
+124,"Richmond Hill, Canada",445,0.00075
+125,"Phoenix, Arizona, United States",445,0.00075
+126,"Hyderabad, India",441,0.00074
+127,"Sydney, Australia",438,0.00074
+128,"Unionville, Canada",434,0.00073
+129,"York, Canada",418,0.0007
+130,"Istanbul, Turkey",416,0.0007
+131,"Yerevan, Armenia",414,0.0007
+132,"Rabat, Morocco",402,0.00068
+133,"Thornhill, Canada",386,0.00065
+134,"Portland, Oregon, United States",379,0.00064
+135,"Denver, Colorado, United States",378,0.00064
+136,"Mount Pearl, Canada",378,0.00064
+137,"White Rock, Canada",374,0.00063
+138,"St Paul, Canada",371,0.00063
+139,"Houston, Texas, United States",365,0.00062
+140,"Bogota, Colombia",365,0.00062
+141,"Guangzhou, China",364,0.00061
+142,"Mountain View, California, United States",363,0.00061
+143,"Oshawa, Canada",359,0.00061
+144,"Sao Paulo, Brazil",355,0.0006
+145,"Kiev, Ukraine",350,0.00059
+146,"Rochester, New York, United States",348,0.00059
+147,"Orlando, Florida, United States",340,0.00057
+148,"Orillia, Canada",339,0.00057
+149,"Saint-Denis, France",336,0.00057
+150,"Delta, Canada",334,0.00056
+151,"Val-D'or, Canada",328,0.00055
+152,"Madrid, Spain",327,0.00055
+153,"San Diego, California, United States",322,0.00054
+154,"Saint-Jerome, Canada",322,0.00054
+155,"Lima, Peru",321,0.00054
+156,"Cupertino, California, United States",320,0.00054
+157,"Duncan, Canada",317,0.00053
+158,"Santa Clara, California, United States",309,0.00052
+159,"Saint-Hyacinthe, Canada",305,0.00051
+160,"Tunis, Tunisia",300,0.00051
+161,"Nicolet, Canada",297,0.0005
+162,"Pohang, Korea (South)",295,0.0005
+163,"Beijing, China",292,0.00049
+164,"Bellevue, Washington, United States",292,0.00049
+165,"Fort Mcmurray, Canada",288,0.00049
+166,"Riyadh, Saudi Arabia",284,0.00048
+167,"Saint-Lambert, Canada",275,0.00046
+168,"East York, Canada",270,0.00046
+169,"Brandon, Canada",263,0.00044
+170,"La Baie, Canada",261,0.00044
+171,"Aurora, Canada",259,0.00044
+172,"Zurich, Switzerland",259,0.00044
+173,"Lasalle, Canada",256,0.00043
+174,"Miami, Florida, United States",255,0.00043
+175,"Port Louis, Mauritius",252,0.00043
+176,"Secaucus, New Jersey, United States",251,0.00042
+177,"Philadelphia, Pennsylvania, United States",249,0.00042
+178,"Sainte-Therese, Canada",243,0.00041
+179,"Hanoi, Viet Nam",242,0.00041
+180,"Frankfurt Am Main, Germany",242,0.00041
+181,"Jupiter, Florida, United States",237,0.0004
+182,"Yellowknife, Canada",237,0.0004
+183,"Vanier, Canada",235,0.0004
+184,"Cranbrook, Canada",234,0.00039
+185,"Courtenay, Canada",231,0.00039
+186,"Montreal-Nord, Canada",231,0.00039
+187,"Whitby, Canada",231,0.00039
+188,"Nagoya, Japan",226,0.00038
+189,"Cleveland, Ohio, United States",222,0.00037
+190,"Concord, Canada",221,0.00037
+191,"Belleville, Canada",221,0.00037
+192,"Dublin, Ireland",221,0.00037
+193,"Anjou, Canada",220,0.00037
+194,"Trumbull, Connecticut, United States",219,0.00037
+195,"Menlo Park, California, United States",217,0.00037
+196,"Millbrook, Canada",217,0.00037
+197,"Chicoutimi, Canada",216,0.00036
+198,"New Minas, Canada",214,0.00036
+199,"Saint-Jean-Sur-Richelieu, Canada",213,0.00036
+200,"Brooks, Canada",213,0.00036
+201,"Beaverton, Michigan, United States",209,0.00035
+202,"Boston, Massachusetts, United States",206,0.00035
+203,"Saint-Hubert, Canada",205,0.00035
+204,"Peterborough, Canada",205,0.00035
+205,"Keswick, Canada",202,0.00034
+206,"Bucharest, Romania",202,0.00034
+207,"Medicine Hat, Canada",201,0.00034
+208,"St Louis, Missouri, United States",199,0.00034
+209,"Auckland, New Zealand (Aotearoa)",198,0.00033
+210,"Chennai, India",198,0.00033
+211,"Stockholm, Sweden",197,0.00033
+212,"Dhaka, Bangladesh",196,0.00033
+213,"Indianapolis, Indiana, United States",191,0.00032
+214,"Joliette, Canada",190,0.00032
+215,"Gurgaon, India",190,0.00032
+216,"Panama City, Panama",189,0.00032
+217,"Tampa, Florida, United States",189,0.00032
+218,"Algiers, Algeria",189,0.00032
+219,"Karachi, Pakistan",188,0.00032
+220,"St Paul, Minnesota, United States",185,0.00031
+221,"Pittsburgh, Pennsylvania, United States",185,0.00031
+222,"Sackville, Canada",183,0.00031
+223,"Repentigny, Canada",183,0.00031
+224,"Richardson, Texas, United States",182,0.00031
+225,"Shawinigan, Canada",182,0.00031
+226,"North Bay, Canada",182,0.00031
+227,"Sangam-Dong, Korea (South)",182,0.00031
+228,"Las Vegas, Nevada, United States",182,0.00031
+229,"Sault Ste. Marie, Canada",181,0.00031
+230,"Prince Albert, Canada",180,0.0003
+231,"Dollard-Des-Ormeaux, Canada",178,0.0003
+232,"Saint-Leonard, Canada",178,0.0003
+233,"Milan, Italy",176,0.0003
+234,"Melbourne, Australia",176,0.0003
+235,"Tlalpan, Mexico",175,0.0003
+236,"Stoke-On-Trent, United Kingdom",174,0.00029
+237,"Maple, Canada",173,0.00029
+238,"Parksville, Canada",173,0.00029
+239,"Brussels, Belgium",172,0.00029
+240,"Clifford, Canada",172,0.00029
+241,"Streetsville, Canada",169,0.00029
+242,"St. Albert, Canada",168,0.00028
+243,"Berlin, Germany",168,0.00028
+244,"Niagara Falls, Canada",167,0.00028
+245,"Marietta, Georgia, United States",166,0.00028
+246,"Yorkton, Canada",166,0.00028
+247,"Salaberry-De-Valleyfield, Canada",166,0.00028
+248,"Bridgewater, Canada",164,0.00028
+249,"Alma, Canada",164,0.00028
+250,"Nuremberg, Germany",163,0.00027
+251,"Mount Laurel, New Jersey, United States",162,0.00027
+252,"Buenos Aires, Argentina",160,0.00027
+253,"Munich, Germany",160,0.00027
+254,"Rome, Italy",160,0.00027
+255,"Warsaw, Poland",159,0.00027
+256,"Bangkok, Thailand",159,0.00027
+257,"Fremont, California, United States",158,0.00027
+258,"Manhattan, Illinois, United States",158,0.00027
+259,"Cambridge, Massachusetts, United States",158,0.00027
+260,"Horsham, Pennsylvania, United States",158,0.00027
+261,"Calcutta, India",158,0.00027
+262,"Sainte-Genevieve, Canada",157,0.00026
+263,"Vernon, Canada",155,0.00026
+264,"Buffalo, New York, United States",154,0.00026
+265,"Giza, Egypt",154,0.00026
+266,"Grimsby, Canada",154,0.00026
+267,"Cornwall, Canada",152,0.00026
+268,"Kuala Lumpur, Malaysia",152,0.00026
+269,"Brockville, Canada",150,0.00025
+270,"Surat, India",149,0.00025
+271,"New Liskeard, Canada",148,0.00025
+272,"Sunnyvale, California, United States",146,0.00025
+273,"Canmore, Canada",146,0.00025
+274,"Collingwood, Canada",144,0.00024
+275,"Abidjan, Cote D'Ivoire (Ivory Coast)",144,0.00024
+276,"Sarasota, Florida, United States",144,0.00024
+277,"Luxembourg, Luxembourg",143,0.00024
+278,"Herndon, Virginia, United States",143,0.00024
+279,"West Vancouver, Canada",141,0.00024
+280,"Bolton, Canada",140,0.00024
+281,"Cairo, Egypt",138,0.00023
+282,"Santiago, Chile",135,0.00023
+283,"Lisbon, Portugal",135,0.00023
+284,"Sherwood Park, Canada",134,0.00023
+285,"Terrebonne, Canada",133,0.00022
+286,"Barcelona, Spain",130,0.00022
+287,"Eganville, Canada",129,0.00022
+288,"Middletown, New Jersey, United States",129,0.00022
+289,"Nairobi, Kenya",129,0.00022
+290,"Beirut, Lebanon",129,0.00022
+291,"Prague, Czech Republic",128,0.00022
+292,"Stittsville, Canada",127,0.00021
+293,"Granby, Canada",127,0.00021
+294,"Detroit, Michigan, United States",127,0.00021
+295,"Ann Arbor, Michigan, United States",126,0.00021
+296,"Summerside, Canada",125,0.00021
+297,"Sept-Iles, Canada",124,0.00021
+298,"Pune, India",123,0.00021
+299,"Stamford, Connecticut, United States",123,0.00021
+300,"Osaka, Japan",122,0.00021
+301,"Broomfield, Colorado, United States",122,0.00021
+302,"Welland, Canada",121,0.0002
+303,"Ankara, Turkey",121,0.0002
+304,"Vienna, Austria",120,0.0002
+305,"Lloydminster, Canada",119,0.0002
+306,"Manchester, United Kingdom",119,0.0002
+307,"Petah Tiqwa, Israel",118,0.0002
+308,"Sioux Lookout, Canada",116,0.0002
+309,"Chantilly, Virginia, United States",116,0.0002
+310,"Timmins, Canada",116,0.0002
+311,"Santo Domingo, Dominican Republic",115,0.00019
+312,"Eau Claire, Wisconsin, United States",115,0.00019
+313,"Minneapolis, Minnesota, United States",114,0.00019
+314,"Dakar, Senegal",114,0.00019
+315,"L'ancienne-Lorette, Canada",114,0.00019
+316,"Hull, Canada",114,0.00019
+317,"Truro, Canada",114,0.00019
+318,"Minsk, Belarus",113,0.00019
+319,"San Mateo, California, United States",113,0.00019
+320,"Nelson, Canada",113,0.00019
+321,"Saint-Eustache, Canada",112,0.00019
+322,"Rio De Janeiro, Brazil",112,0.00019
+323,"Colombo, Sri Lanka",111,0.00019
+324,"Ahmedabad, India",110,0.00019
+325,"Athens, Greece",110,0.00019
+326,"New Glasgow, Canada",110,0.00019
+327,"Sainte-Marie, Canada",109,0.00018
+328,"Amman, Jordan",109,0.00018
+329,"Jakarta, Indonesia",108,0.00018
+330,"Dublin, Canada",107,0.00018
+331,"Smiths Falls, Canada",105,0.00018
+332,"Stoney Creek, Canada",105,0.00018
+333,"Fairfield, Connecticut, United States",104,0.00018
+334,"St Georges, Canada",104,0.00018
+335,"Helsinki, Finland",104,0.00018
+336,"Columbus, Ohio, United States",104,0.00018
+337,"Valcourt, Canada",104,0.00018
+338,"Airdrie, Canada",104,0.00018
+339,"Canberra, Australia",104,0.00018
+340,"Garza Garcia, Mexico",103,0.00017
+341,"Velizy-Villacoublay, France",102,0.00017
+342,"Dusseldorf, Germany",101,0.00017
+343,"Pointe-Claire, Canada",101,0.00017
+344,"Mountain Grove, Canada",100,0.00017
+345,"Campbell River, Canada",100,0.00017
+346,"Penticton, Canada",100,0.00017
+347,"Yaounde, Cameroon",100,0.00017
+348,"Deland, Florida, United States",100,0.00017
+349,"Lewes, Delaware, United States",98,0.00017
+350,"Sofia, Bulgaria",97,0.00016
+351,"Waltham, Massachusetts, United States",96,0.00016
+352,"Mars, Pennsylvania, United States",95,0.00016
+353,"Taichung, Taiwan",94,0.00016
+354,"Chilliwack, Canada",94,0.00016
+355,"Storm Lake, Iowa, United States",94,0.00016
+356,"Riga, Latvia",94,0.00016
+357,"Prince Rupert, Canada",94,0.00016
+358,"North Battleford, Canada",94,0.00016
+359,"Geneve, Switzerland",94,0.00016
+360,"Aubervilliers, France",93,0.00016
+361,"North Sydney, Australia",92,0.00016
+362,"Carrollton, Texas, United States",92,0.00016
+363,"Manassas, Virginia, United States",92,0.00016
+364,"Doha, Qatar",92,0.00016
+365,"Ludhiana, India",92,0.00016
+366,"Austin, Texas, United States",92,0.00016
+367,"Ft Worth, Texas, United States",91,0.00015
+368,"Burgessville, Canada",91,0.00015
+369,"Leduc, Canada",91,0.00015
+370,"Naperville, Illinois, United States",91,0.00015
+371,"Chandigarh, India",90,0.00015
+372,"Irvine, California, United States",90,0.00015
+373,"Midhurst, Canada",89,0.00015
+374,"Medellin, Colombia",89,0.00015
+375,"Kingston, Jamaica",89,0.00015
+376,"Okotoks, Canada",87,0.00015
+377,"Stellarton, Canada",87,0.00015
+378,"Tiverton, Canada",87,0.00015
+379,"Brisbane, Australia",87,0.00015
+380,"Sheffield, United Kingdom",86,0.00015
+381,"Salt Lake City, Utah, United States",86,0.00015
+382,"Cochrane, Canada",86,0.00015
+383,"Shanghai, China",86,0.00015
+384,"Surfside, California, United States",86,0.00015
+385,"Arnprior, Canada",86,0.00015
+386,"Troy, Michigan, United States",85,0.00014
+387,"Swift Current, Canada",85,0.00014
+388,"Ealing, United Kingdom",85,0.00014
+389,"Hsinchu, Taiwan",84,0.00014
+390,"Baltimore, Maryland, United States",84,0.00014
+391,"Moose Jaw, Canada",84,0.00014
+392,"Edison, New Jersey, United States",84,0.00014
+393,"Midland, Canada",83,0.00014
+394,"Clarkson, Canada",82,0.00014
+395,"Westmount, Canada",82,0.00014
+396,"Taoyuan City, Taiwan",81,0.00014
+397,"Pembroke, Canada",81,0.00014
+398,"Rancho Cucamonga, California, United States",81,0.00014
+399,"Baie-Comeau, Canada",81,0.00014
+400,"Copenhagen, Denmark",81,0.00014
+401,"Haney, Canada",80,0.00013
+402,"Kansas City, Missouri, United States",80,0.00013
+403,"Olds, Canada",79,0.00013
+404,"Irving, Texas, United States",79,0.00013
+405,"Noida, India",79,0.00013
+406,"Salmon Arm, Canada",78,0.00013
+407,"Choisy-Le-Roi, France",78,0.00013
+408,"Kensington And Chelsea, United Kingdom",78,0.00013
+409,"Scarsdale, New York, United States",77,0.00013
+410,"Sarnia, Canada",77,0.00013
+411,"Casablanca, Morocco",77,0.00013
+412,"Bowmanville, Canada",76,0.00013
+413,"Yarmouth, Canada",76,0.00013
+414,"Woodbridge, New Jersey, United States",76,0.00013
+415,"Vilnius, Lithuania",75,0.00013
+416,"Matane, Canada",75,0.00013
+417,"Port Of Spain, Trinidad and Tobago",75,0.00013
+418,"Richmond, Virginia, United States",75,0.00013
+419,"Donnacona, Canada",75,0.00013
+420,"Arlington, Virginia, United States",75,0.00013
+421,"Kaslo, Canada",74,0.00012
+422,"St Thomas, Canada",74,0.00012
+423,"Amos, Canada",74,0.00012
+424,"Camrose, Canada",74,0.00012
+425,"San Antonio, Texas, United States",73,0.00012
+426,"Weyburn, Canada",73,0.00012
+427,"Lahore, Pakistan",73,0.00012
+428,"Mechelen, Belgium",73,0.00012
+429,"Cedar Rapids, Iowa, United States",73,0.00012
+430,"Aylmer, Canada",72,0.00012
+431,"Castlegar, Canada",72,0.00012
+432,"Amherst, Canada",72,0.00012
+433,"Roxboro, Canada",71,0.00012
+434,"Whistler, Canada",71,0.00012
+435,"Georgetown, Canada",70,0.00012
+436,"Oslo, Norway",70,0.00012
+437,"Neihu District, Taiwan",69,0.00012
+438,"Jinan, China",69,0.00012
+439,"Maniwaki, Canada",69,0.00012
+440,"Pompano Beach, Florida, United States",68,0.00011
+441,"Richfield, Ohio, United States",68,0.00011
+442,"Kuwait, Kuwait",67,0.00011
+443,"Charlotte, North Carolina, United States",67,0.00011
+444,"Port Alberni, Canada",67,0.00011
+445,"Ft Lauderdale, Florida, United States",66,0.00011
+446,"Spruce Grove, Canada",66,0.00011
+447,"Rockville, Maryland, United States",66,0.00011
+448,"Monroe, Louisiana, United States",66,0.00011
+449,"Sansing, Taiwan",65,0.00011
+450,"Cincinnati, Ohio, United States",65,0.00011
+451,"Westbank, Canada",65,0.00011
+452,"Belgrade, Serbia",65,0.00011
+453,"Budapest, Hungary",65,0.00011
+454,"Hangzhou, China",65,0.00011
+455,"St Petersburg, Russian Federation",64,0.00011
+456,"Ft St John, Canada",64,0.00011
+457,"Thetford Mines, Canada",64,0.00011
+458,"Ancaster, Canada",63,0.00011
+459,"Sorel-Tracy, Canada",63,0.00011
+460,"Kirkton, Canada",63,0.00011
+461,"Ogden, Utah, United States",63,0.00011
+462,"Port Perry, Canada",62,0.0001
+463,"Ivrea, Italy",62,0.0001
+464,"Saint-Constant, Canada",62,0.0001
+465,"Bielefeld, Germany",62,0.0001
+466,"Zagreb, Croatia (Hrvatska)",62,0.0001
+467,"Simcoe, Canada",62,0.0001
+468,"Cotonou, Benin",62,0.0001
+469,"Gormley, Canada",61,0.0001
+470,"Guadalajara, Mexico",61,0.0001
+471,"Cooksville, Canada",60,0.0001
+472,"Sechelt, Canada",60,0.0001
+473,"Stuttgart, Germany",60,0.0001
+474,"Missoula, Montana, United States",60,0.0001
+475,"Providence, Rhode Island, United States",60,0.0001
+476,"Accra, Ghana",60,0.0001
+477,"Outremont, Canada",60,0.0001
+478,"Pretoria, South Africa",59,0.0001
+479,"Tashkent, Uzbekistan",59,0.0001
+480,"San Jose, Costa Rica",59,0.0001
+481,"Nashville, Tennessee, United States",59,0.0001
+482,"Saint-Nicolas, Canada",59,0.0001
+483,"Perth, Australia",59,0.0001
+484,"Johannesburg, South Africa",59,0.0001
+485,"Cologne, Germany",58,0.0001
+486,"Kinshasa, Congo (Democratic Republic)",58,0.0001
+487,"The Hague, Netherlands",58,0.0001
+488,"Englewood, Colorado, United States",58,0.0001
+489,"Roberval, Canada",58,0.0001
+490,"Bratislava, Slovak Republic",58,0.0001
+491,"Bonn, Germany",58,0.0001
+492,"Winchester, United Kingdom",57,0.0001
+493,"Terrace, Canada",56,0.00009
+494,"Puteaux, France",56,0.00009
+495,"Vineland, Canada",56,0.00009
+496,"Kenora, Canada",56,0.00009
+497,"Mcallen, Texas, United States",56,0.00009
+498,"Plano, Texas, United States",56,0.00009
+499,"Shah Alam, Malaysia",55,0.00009
+500,"Haifa, Israel",54,0.00009
+501,"Des Moines, Iowa, United States",54,0.00009
+502,"Beauport, Canada",54,0.00009
+503,"Wilmington, Delaware, United States",54,0.00009
+504,"Manama, Bahrain",54,0.00009
+505,"Quito, Ecuador",53,0.00009
+506,"Peace River, Canada",53,0.00009
+507,"Santa Monica, California, United States",53,0.00009
+508,"Tbilisi, Georgia",52,0.00009
+509,"Adis Abeba, Ethiopia",52,0.00009
+510,"Perth, Canada",52,0.00009
+511,"Boucherville, Canada",52,0.00009
+512,"Baghdad, Iraq",52,0.00009
+513,"Middlesbrough, United Kingdom",51,0.00009
+514,"Annapolis, Maryland, United States",51,0.00009
+515,"Darien, Connecticut, United States",51,0.00009
+516,"Dryden, Canada",51,0.00009
+517,"Tower Hamlets, United Kingdom",51,0.00009
+518,"Masqat, Oman",51,0.00009
+519,"Concord, California, United States",50,0.00008
+520,"Auburn Hills, Michigan, United States",50,0.00008
+521,"Tallinn, Estonia",50,0.00008
+522,"Mahwah, New Jersey, United States",50,0.00008
+523,"Ste Catherine, Canada",50,0.00008
+524,"Hamburg, Germany",49,0.00008
+525,"Omaha, Nebraska, United States",49,0.00008
+526,"Stockton, California, United States",48,0.00008
+527,"Manila, Philippines",48,0.00008
+528,"Revelstoke, Canada",48,0.00008
+529,"Clinton, Canada",48,0.00008
+530,"Pitt Meadows, Canada",48,0.00008
+531,"Beaverton, Oregon, United States",47,0.00008
+532,"Dawson Creek, Canada",47,0.00008
+533,"Redbridge, United Kingdom",47,0.00008
+534,"Morristown, New Jersey, United States",47,0.00008
+535,"Kharkiv, Ukraine",47,0.00008
+536,"Cape Town, South Africa",47,0.00008
+537,"Chisinau, Moldova",47,0.00008
+538,"Varennes, Canada",46,0.00008
+539,"Leamington, Canada",46,0.00008
+540,"Fort Frances, Canada",46,0.00008
+541,"Saint-Flavien, Canada",46,0.00008
+542,"St-Michel-Des-Saints, Canada",46,0.00008
+543,"North Gower, Canada",46,0.00008
+544,"Almaty, Kazakhstan",46,0.00008
+545,"Overland Park, Kansas, United States",45,0.00008
+546,"Cambridge, United Kingdom",45,0.00008
+547,"Kampala, Uganda",45,0.00008
+548,"Guayaquil, Ecuador",45,0.00008
+549,"Alpharetta, Georgia, United States",45,0.00008
+550,"Sidney, Canada",45,0.00008
+551,"Tirana, Albania",45,0.00008
+552,"Williams Lake, Canada",45,0.00008
+553,"Newbury, United Kingdom",45,0.00008
+554,"Thanh Pho Ho Chi Minh, Viet Nam",44,0.00007
+555,"Bristol, United Kingdom",44,0.00007
+556,"Port Au Prince, Haiti",44,0.00007
+557,"Thorold, Canada",44,0.00007
+558,"Monterrey, Mexico",43,0.00007
+559,"Lindsay, Canada",43,0.00007
+560,"Madison, Wisconsin, United States",43,0.00007
+561,"East Selkirk, Canada",43,0.00007
+562,"Antananarivo, Madagascar",43,0.00007
+563,"Utrecht, Netherlands",42,0.00007
+564,"Westchester, Illinois, United States",42,0.00007
+565,"Chalk River, Canada",42,0.00007
+566,"Boulogne-Billancourt, France",42,0.00007
+567,"Oklahoma City, Oklahoma, United States",42,0.00007
+568,"Amersfoort, Netherlands",42,0.00007
+569,"Boca Raton, Florida, United States",42,0.00007
+570,"Estevan, Canada",42,0.00007
+571,"Fort Saskatchewan, Canada",41,0.00007
+572,"Changsha, China",41,0.00007
+573,"Kincardine, Canada",41,0.00007
+574,"Lyon, France",41,0.00007
+575,"Brasilia, Brazil",41,0.00007
+576,"Montevideo, Uruguay",41,0.00007
+577,"Reston, Virginia, United States",40,0.00007
+578,"Drayton Valley, Canada",40,0.00007
+579,"Ripley, Canada",40,0.00007
+580,"Del Mar, California, United States",40,0.00007
+581,"Slave Lake, Canada",40,0.00007
+582,"Edinburgh, United Kingdom",40,0.00007
+583,"Trenton, Canada",40,0.00007
+584,"Huntsville, Canada",40,0.00007
+585,"Shinjuku, Japan",39,0.00007
+586,"Sainte-Julie, Canada",39,0.00007
+587,"Lome, Togo",39,0.00007
+588,"Lulea, Sweden",39,0.00007
+589,"Milton Keynes, United Kingdom",39,0.00007
+590,"Almonte, Canada",39,0.00007
+591,"Nanjing, China",38,0.00006
+592,"Fenelon Falls, Canada",38,0.00006
+593,"Hawkesbury, Canada",38,0.00006
+594,"Angeles, Philippines",38,0.00006
+595,"Hatfield, United Kingdom",38,0.00006
+596,"Powell River, Canada",38,0.00006
+597,"Victoriaville, Canada",38,0.00006
+598,"Knowlton, Canada",37,0.00006
+599,"Gibsons, Canada",37,0.00006
+600,"Da-An District, Taiwan",37,0.00006
+601,"Bracebridge, Canada",37,0.00006
+602,"Toulouse, France",37,0.00006
+603,"Marseille, France",37,0.00006
+604,"Slough, United Kingdom",37,0.00006
+605,"Caracas, Venezuela",37,0.00006
+606,"Amqui, Canada",37,0.00006
+607,"Lalitpur, Nepal",36,0.00006
+608,"Gladwin, Michigan, United States",36,0.00006
+609,"Secunderabad, India",36,0.00006
+610,"Ste Anne, Canada",36,0.00006
+611,"Bristow, Virginia, United States",36,0.00006
+612,"Wolfville, Canada",36,0.00006
+613,"Cabano, Canada",36,0.00006
+614,"Princeton, New Jersey, United States",35,0.00006
+615,"Alexandria, Virginia, United States",35,0.00006
+616,"Kigali, Rwanda",35,0.00006
+617,"Sacramento, California, United States",35,0.00006
+618,"Sylvan Lake, Canada",35,0.00006
+619,"Shijiazhuang, China",34,0.00006
+620,"Westport, Canada",34,0.00006
+621,"Mount Prospect, Illinois, United States",34,0.00006
+622,"Trail, Canada",34,0.00006
+623,"Tel Aviv, Israel",34,0.00006
+624,"Bay Roberts, Canada",34,0.00006
+625,"Gaspe, Canada",34,0.00006
+626,"Whitecourt, Canada",34,0.00006
+627,"Guevarra, Philippines",34,0.00006
+628,"Wellington, New Zealand (Aotearoa)",33,0.00006
+629,"Sterling Heights, Michigan, United States",33,0.00006
+630,"Sainte-Anne-De-Bellevue, Canada",33,0.00006
+631,"Piscataway, New Jersey, United States",33,0.00006
+632,"Roubaix, France",33,0.00006
+633,"Quesnel, Canada",33,0.00006
+634,"Little Rock, Arkansas, United States",33,0.00006
+635,"Minato, Japan",33,0.00006
+636,"Strasbourg, France",33,0.00006
+637,"Hydro, Oklahoma, United States",32,0.00005
+638,"Redwood City, California, United States",32,0.00005
+639,"Hope, Canada",32,0.00005
+640,"Hopkins, Minnesota, United States",32,0.00005
+641,"Jacksonville, Florida, United States",32,0.00005
+642,"Maslak, Turkey",32,0.00005
+643,"Kabul, Afghanistan",32,0.00005
+644,"Hinton, Canada",32,0.00005
+645,"Beverly Hills, California, United States",31,0.00005
+646,"Chatsworth, California, United States",31,0.00005
+647,"Carleton Place, Canada",31,0.00005
+648,"Columbia, South Carolina, United States",31,0.00005
+649,"Alliston, Canada",31,0.00005
+650,"Guatemala City, Guatemala",31,0.00005
+651,"Durham, North Carolina, United States",31,0.00005
+652,"Everett, Washington, United States",31,0.00005
+653,"Douala, Cameroon",31,0.00005
+654,"Memphis, Tennessee, United States",31,0.00005
+655,"Chibougamau, Canada",31,0.00005
+656,"Van Nuys, California, United States",31,0.00005
+657,"Lourdes, Canada",31,0.00005
+658,"Louisville, Kentucky, United States",31,0.00005
+659,"Baku, Azerbaijan",30,0.00005
+660,"Chesterfield, Missouri, United States",30,0.00005
+661,"Boxborough, Massachusetts, United States",30,0.00005
+662,"Steinbach, Canada",30,0.00005
+663,"Stony Plain, Canada",30,0.00005
+664,"Poitiers, France",30,0.00005
+665,"Coimbatore, India",30,0.00005
+666,"Nicosia, Cyprus",30,0.00005
+667,"Conakry, Guinea",30,0.00005
+668,"Melville, New York, United States",30,0.00005
+669,"St-Sauveur-Des-Monts, Canada",29,0.00005
+670,"Tucson, Arizona, United States",29,0.00005
+671,"Schaumburg, Illinois, United States",29,0.00005
+672,"Bethesda, Maryland, United States",29,0.00005
+673,"Valletta, Malta",29,0.00005
+674,"Vaudreuil-Dorion, Canada",29,0.00005
+675,"Beaumont, Canada",29,0.00005
+676,"Mirabel, Canada",29,0.00005
+677,"Issaquah, Washington, United States",29,0.00005
+678,"Wainwright, Canada",29,0.00005
+679,"Hicksville, New York, United States",29,0.00005
+680,"Portsmouth, New Hampshire, United States",29,0.00005
+681,"Montmagny, Canada",29,0.00005
+682,"Saint-Godefroi, Canada",28,0.00005
+683,"Chateauguay, Canada",28,0.00005
+684,"Bentonville, Arkansas, United States",28,0.00005
+685,"Osoyoos, Canada",28,0.00005
+686,"Livingston, New Jersey, United States",28,0.00005
+687,"Armstrong, Canada",28,0.00005
+688,"Cold Lake, Canada",28,0.00005
+689,"Canning, Canada",28,0.00005
+690,"Oulu, Finland",28,0.00005
+691,"Qualicum Beach, Canada",27,0.00005
+692,"Florham Park, New Jersey, United States",27,0.00005
+693,"Champs-Sur-Marne, France",27,0.00005
+694,"Batiscan, Canada",27,0.00005
+695,"Oliver, Canada",27,0.00005
+696,"Strathmore, Canada",27,0.00005
+697,"Sarajevo, Bosnia and Herzegovina",27,0.00005
+698,"Antigonish, Canada",27,0.00005
+699,"Dortmund, Germany",27,0.00005
+700,"St Charles, Illinois, United States",27,0.00005
+701,"Beeton, Canada",27,0.00005
+702,"Bancroft, Canada",27,0.00005
+703,"Khartoum, Sudan",27,0.00005
+704,"Reading, United Kingdom",27,0.00005
+705,"Cicero, Illinois, United States",26,0.00004
+706,"Vancouver, Washington, United States",26,0.00004
+707,"Carleton, Canada",26,0.00004
+708,"Cobourg, Canada",26,0.00004
+709,"Palo Alto, California, United States",26,0.00004
+710,"Rochdale, United Kingdom",26,0.00004
+711,"Livonia, Michigan, United States",26,0.00004
+712,"Beloeil, Canada",26,0.00004
+713,"Yeoksam-Dong, Korea (South)",26,0.00004
+714,"Lachine, Canada",26,0.00004
+715,"Telford, United Kingdom",26,0.00004
+716,"Ucluelet, Canada",26,0.00004
+717,"Keewatin, Canada",26,0.00004
+718,"Santa Rosa, California, United States",26,0.00004
+719,"Milwaukee, Wisconsin, United States",26,0.00004
+720,"Delft, Netherlands",25,0.00004
+721,"Adelaide, Australia",25,0.00004
+722,"Maitland, Florida, United States",25,0.00004
+723,"New Kensington, Pennsylvania, United States",25,0.00004
+724,"Norwalk, Connecticut, United States",25,0.00004
+725,"Warrington, United Kingdom",25,0.00004
+726,"San Salvador, El Salvador",25,0.00004
+727,"Lebanon, Ohio, United States",25,0.00004
+728,"Brossard, Canada",25,0.00004
+729,"Tyler, Texas, United States",25,0.00004
+730,"Poznan, Poland",25,0.00004
+731,"Milverton, Canada",25,0.00004
+732,"Grand Rapids, Michigan, United States",25,0.00004
+733,"Fareham, United Kingdom",25,0.00004
+734,"Ouagadougou, Burkina Faso",25,0.00004
+735,"Mont-Joli, Canada",24,0.00004
+736,"Dar Es Salaam, Tanzania",24,0.00004
+737,"Chengdu, China",24,0.00004
+738,"Nantes, France",24,0.00004
+739,"Nassau, Bahamas",24,0.00004
+740,"Odessa, Ukraine",24,0.00004
+741,"Bordeaux, France",24,0.00004
+742,"Southfield, Michigan, United States",24,0.00004
+743,"Carlsbad, California, United States",24,0.00004
+744,"Greenville, South Carolina, United States",24,0.00004
+745,"Maidenhead, United Kingdom",24,0.00004
+746,"Eschborn, Germany",24,0.00004
+747,"Managua, Nicaragua",24,0.00004
+748,"Naples, Florida, United States",24,0.00004
+749,"Saint-Tite, Canada",24,0.00004
+750,"Saint-Henri-De-Levis, Canada",24,0.00004
+751,"Tucker, Georgia, United States",23,0.00004
+752,"Jersey City, New Jersey, United States",23,0.00004
+753,"Woburn, Massachusetts, United States",23,0.00004
+754,"Shenzhen, China",23,0.00004
+755,"North Ryde, Australia",23,0.00004
+756,"Novosibirsk, Russian Federation",23,0.00004
+757,"Winchendon, Massachusetts, United States",23,0.00004
+758,"Thompson, Canada",23,0.00004
+759,"Edson, Canada",23,0.00004
+760,"Bonaventure, Canada",23,0.00004
+761,"Rajkot, India",23,0.00004
+762,"Aarhus, Denmark",22,0.00004
+763,"King City, Canada",22,0.00004
+764,"Uxbridge, Canada",22,0.00004
+765,"Eden Prairie, Minnesota, United States",22,0.00004
+766,"Tripoli, Libya",22,0.00004
+767,"Kissimmee, Florida, United States",22,0.00004
+768,"Hanna, Canada",22,0.00004
+769,"Chelmsford, Canada",22,0.00004
+770,"Stettler, Canada",22,0.00004
+771,"Cheyenne, Wyoming, United States",22,0.00004
+772,"Havana, Cuba",22,0.00004
+773,"Riverview, Florida, United States",22,0.00004
+774,"Samcheok, Korea (South)",22,0.00004
+775,"Fuzhou, China",21,0.00004
+776,"Skopje, Macedonia",21,0.00004
+777,"Becancour, Canada",21,0.00004
+778,"Mc Lean, Virginia, United States",21,0.00004
+779,"Didsbury, Canada",21,0.00004
+780,"Colorado Springs, Colorado, United States",21,0.00004
+781,"Damascus, Syria",21,0.00004
+782,"Sioux Falls, South Dakota, United States",21,0.00004
+783,"Mission, Canada",21,0.00004
+784,"South Brisbane, Australia",21,0.00004
+785,"Kleinburg, Canada",21,0.00004
+786,"Kebon Sirih, Indonesia",21,0.00004
+787,"Ft Myers, Florida, United States",21,0.00004
+788,"Absecon, New Jersey, United States",21,0.00004
+789,"Wichita, Kansas, United States",21,0.00004
+790,"L'orignal, Canada",20,0.00003
+791,"Uberlandia, Brazil",20,0.00003
+792,"Dnipropetrovsk, Ukraine",20,0.00003
+793,"Mahilyow, Belarus",20,0.00003
+794,"Incline Village, Nevada, United States",20,0.00003
+795,"Reamstown, Pennsylvania, United States",20,0.00003
+796,"Scottsdale, Arizona, United States",20,0.00003
+797,"Labrador City, Canada",20,0.00003
+798,"Saint-Charles-De-Bellechasse, Canada",20,0.00003
+799,"Torokbalint, Hungary",20,0.00003
+800,"Albuquerque, New Mexico, United States",20,0.00003
+801,"Peapack, New Jersey, United States",20,0.00003
+802,"Morelos, Mexico",20,0.00003
+803,"Islington, United Kingdom",20,0.00003
+804,"Khalandrion, Greece",20,0.00003
+805,"Gibraltar, Gibraltar",20,0.00003
+806,"Kochi, India",19,0.00003
+807,"Hampton, Virginia, United States",19,0.00003
+808,"Port Mcneill, Canada",19,0.00003
+809,"Beamsville, Canada",19,0.00003
+810,"Minden, Canada",19,0.00003
+811,"Grandville, Michigan, United States",19,0.00003
+812,"Paspebiac, Canada",19,0.00003
+813,"Bhopal, India",19,0.00003
+814,"Setif, Algeria",19,0.00003
+815,"White Plains, New York, United States",19,0.00003
+816,"Allentown, Pennsylvania, United States",19,0.00003
+817,"Syracuse, New York, United States",19,0.00003
+818,"Bay, Arkansas, United States",19,0.00003
+819,"Drumheller, Canada",19,0.00003
+820,"Kanchipuram, India",18,0.00003
+821,"Bracknell, United Kingdom",18,0.00003
+822,"Lacombe, Canada",18,0.00003
+823,"Saint-Romuald, Canada",18,0.00003
+824,"Strathroy, Canada",18,0.00003
+825,"Ljubljana, Slovenia",18,0.00003
+826,"Beardsley, Canada",18,0.00003
+827,"Mansfield, Massachusetts, United States",18,0.00003
+828,"Courbevoie, France",18,0.00003
+829,"Forest, Canada",18,0.00003
+830,"Ft Collins, Colorado, United States",18,0.00003
+831,"West Palm Beach, Florida, United States",18,0.00003
+832,"Chandler, Canada",18,0.00003
+833,"Honolulu, Hawaii, United States",18,0.00003
+834,"Busto Arsizio, Italy",18,0.00003
+835,"Reno, Nevada, United States",18,0.00003
+836,"Constantine, Algeria",18,0.00003
+837,"Smithfield, Rhode Island, United States",18,0.00003
+838,"Riviere-Du-Loup, Canada",18,0.00003
+839,"Nonthaburi, Thailand",18,0.00003
+840,"Phnum Penh, Cambodia",18,0.00003
+841,"Tempe, Arizona, United States",18,0.00003
+842,"Cottam, Canada",17,0.00003
+843,"Albany, New York, United States",17,0.00003
+844,"Elmhurst, Illinois, United States",17,0.00003
+845,"Lewisville, Texas, United States",17,0.00003
+846,"Kirkland, Washington, United States",17,0.00003
+847,"Saint-Jean-Port-Joli, Canada",17,0.00003
+848,"Sturgeon Falls, Canada",17,0.00003
+849,"Cancun, Mexico",17,0.00003
+850,"Wuhan, China",17,0.00003
+851,"Hamilton, Bermuda",17,0.00003
+852,"Dorchester, Canada",17,0.00003
+853,"Addison, Texas, United States",17,0.00003
+854,"Virden, Canada",17,0.00003
+855,"Oxford, United Kingdom",17,0.00003
+856,"Tomsk, Russian Federation",17,0.00003
+857,"Mascouche, Canada",17,0.00003
+858,"Gaithersburg, Maryland, United States",17,0.00003
+859,"Rosh Haayin, Israel",17,0.00003
+860,"Florianopolis, Brazil",16,0.00003
+861,"Val-David, Canada",16,0.00003
+862,"Lytton, Canada",16,0.00003
+863,"Barnsley, United Kingdom",16,0.00003
+864,"Greeley, Colorado, United States",16,0.00003
+865,"Wallingford, Connecticut, United States",16,0.00003
+866,"Ferndale, Washington, United States",16,0.00003
+867,"Fort Erie, Canada",16,0.00003
+868,"Yokohama, Japan",16,0.00003
+869,"Montpellier, France",16,0.00003
+870,"Inuvik, Canada",16,0.00003
+871,"Markdale, Canada",16,0.00003
+872,"Spartanburg, South Carolina, United States",16,0.00003
+873,"Ipswich, Australia",16,0.00003
+874,"Lviv, Ukraine",16,0.00003
+875,"Izmir, Turkey",16,0.00003
+876,"Rangoon, Myanmar",16,0.00003
+877,"San Juan, Puerto Rico",16,0.00003
+878,"Burlington, Vermont, United States",16,0.00003
+879,"Inwood, Canada",16,0.00003
+880,"Wallaceburg, Canada",16,0.00003
+881,"Astana, Kazakhstan",16,0.00003
+882,"Portland, Maine, United States",16,0.00003
+883,"Beachwood, Ohio, United States",16,0.00003
+884,"Innisfil, Canada",16,0.00003
+885,"High River, Canada",16,0.00003
+886,"Gainesville, Florida, United States",15,0.00003
+887,"Boisbriand, Canada",15,0.00003
+888,"Renens, Switzerland",15,0.00003
+889,"Espanola, Canada",15,0.00003
+890,"Salt Spring Island, Canada",15,0.00003
+891,"Maisons-Alfort, France",15,0.00003
+892,"Chestermere, Canada",15,0.00003
+893,"Wetaskiwin, Canada",15,0.00003
+894,"Merritt, Canada",15,0.00003
+895,"Tegucigalpa, Honduras",15,0.00003
+896,"Hanover, Maryland, United States",15,0.00003
+897,"Exeter, United Kingdom",15,0.00003
+898,"Bridgeport, Connecticut, United States",15,0.00003
+899,"Warren, New Jersey, United States",15,0.00003
+900,"Hannover, Germany",15,0.00003
+901,"Anchorage, Alaska, United States",15,0.00003
+902,"Manching, Germany",15,0.00003
+903,"George Town, Cayman Islands",15,0.00003
+904,"Crawford Bay, Canada",15,0.00003
+905,"Eindhoven, Netherlands",15,0.00003
+906,"Bridgewater, New Jersey, United States",15,0.00003
+907,"Dayton, Ohio, United States",15,0.00003
+908,"Tyumen, Russian Federation",15,0.00003
+909,"Rougemont, Canada",15,0.00003
+910,"Oran, Algeria",15,0.00003
+911,"Walnut, California, United States",15,0.00003
+912,"Dundalk, Ireland",15,0.00003
+913,"Hitachi, Japan",14,0.00002
+914,"Valbonne, France",14,0.00002
+915,"Three Springs, Pennsylvania, United States",14,0.00002
+916,"Debolt, Canada",14,0.00002
+917,"Sorocaba, Brazil",14,0.00002
+918,"Chiyoda, Japan",14,0.00002
+919,"Leipzig, Germany",14,0.00002
+920,"Byfleet, United Kingdom",14,0.00002
+921,"Newlands, South Africa",14,0.00002
+922,"Renfrew, Canada",14,0.00002
+923,"Monrovia, California, United States",14,0.00002
+924,"Cardiff, United Kingdom",14,0.00002
+925,"Newbury Park, California, United States",14,0.00002
+926,"Nunawading, Australia",14,0.00002
+927,"Watford, United Kingdom",14,0.00002
+928,"Morton Grove, Illinois, United States",14,0.00002
+929,"Hanmer, Canada",14,0.00002
+930,"Digby, Canada",14,0.00002
+931,"Lille, France",14,0.00002
+932,"Pefferlaw, Canada",14,0.00002
+933,"Val-Des-Monts, Canada",14,0.00002
+934,"Lowell, Massachusetts, United States",13,0.00002
+935,"Petion-Ville, Haiti",13,0.00002
+936,"Kyoto, Japan",13,0.00002
+937,"Fornebu, Norway",13,0.00002
+938,"Cork, Ireland",13,0.00002
+939,"Fergus, Canada",13,0.00002
+940,"Marrakech, Morocco",13,0.00002
+941,"Hounslow, United Kingdom",13,0.00002
+942,"Thousand Oaks, California, United States",13,0.00002
+943,"Nice, France",13,0.00002
+944,"Lisburn, United Kingdom",13,0.00002
+945,"Sana, Yemen",13,0.00002
+946,"Monterey Park, California, United States",13,0.00002
+947,"Libreville, Gabon",13,0.00002
+948,"Greensboro, North Carolina, United States",13,0.00002
+949,"Esfahan, Iran",13,0.00002
+950,"Queen Charlotte, Canada",13,0.00002
+951,"Pointe-Aux-Trembles, Canada",13,0.00002
+952,"Boise, Idaho, United States",13,0.00002
+953,"Birmingham, Michigan, United States",13,0.00002
+954,"Netanya, Israel",13,0.00002
+955,"Huntsville, Alabama, United States",13,0.00002
+956,"Fernie, Canada",13,0.00002
+957,"Ghaziabad, India",13,0.00002
+958,"St-Bruno, Canada",12,0.00002
+959,"Middletown, New York, United States",12,0.00002
+960,"Riverside, California, United States",12,0.00002
+961,"Gardena, California, United States",12,0.00002
+962,"Bryanston, South Africa",12,0.00002
+963,"Jiddah, Saudi Arabia",12,0.00002
+964,"Spencerville, Canada",12,0.00002
+965,"Liege, Belgium",12,0.00002
+966,"Hollywood, Florida, United States",12,0.00002
+967,"Ft Wayne, Indiana, United States",12,0.00002
+968,"Santa Cruz, Bolivia",12,0.00002
+969,"Wawa, Canada",12,0.00002
+970,"Anyang-Dong, Korea (South)",12,0.00002
+971,"Pasadena, California, United States",12,0.00002
+972,"Manchester, New Hampshire, United States",12,0.00002
+973,"Brazzaville, Congo",12,0.00002
+974,"Matawan, New Jersey, United States",12,0.00002
+975,"Kemptville, Canada",12,0.00002
+976,"Evansville, Indiana, United States",12,0.00002
+977,"Binbrook, Canada",12,0.00002
+978,"Saarbrucken, Germany",12,0.00002
+979,"Leeds, United Kingdom",12,0.00002
+980,"Blida, Algeria",12,0.00002
+981,"Gilbert, Arizona, United States",12,0.00002
+982,"Kimberley, Canada",12,0.00002
+983,"Niverville, Canada",12,0.00002
+984,"New Orleans, Louisiana, United States",12,0.00002
+985,"Charny, Canada",12,0.00002
+986,"San Luis Obispo, California, United States",12,0.00002
+987,"Stavanger, Norway",12,0.00002
+988,"Frederick, Maryland, United States",12,0.00002
+989,"Duluth, Georgia, United States",12,0.00002
+990,"Creston, Canada",12,0.00002
+991,"Brest, Belarus",12,0.00002
+992,"Arvada, Colorado, United States",12,0.00002
+993,"Athens, Georgia, United States",12,0.00002
+994,"Fresno, California, United States",11,0.00002
+995,"Dudley, United Kingdom",11,0.00002
+996,"Brandon, Florida, United States",11,0.00002
+997,"Zurich, Canada",11,0.00002
+998,"Rolling Meadows, Illinois, United States",11,0.00002
+999,"Walnut Creek, California, United States",11,0.00002
+1000,"Klang, Malaysia",11,0.00002
+,"Subtotal for rows: 1 - 1000",578776,0.97615
+,"Other",14140,0.02385
+,"Total",592916,1.0
+
