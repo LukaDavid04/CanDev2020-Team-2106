@@ -13,9 +13,10 @@ orders.extended <- read.data()
 
 getwd()
 setwd("C:/Users/Cheta/OneDrive/Hackathons/canDEV")
-Cities <- read.csv("Cities.csv",header=TRUE,sep=",",skip = 7,nrows=20)
+Cities <- read.csv("Cities.csv",header=TRUE,sep=",",skip = 7,nrows=10)
 Cities
-plot(Cities$X,Cities$City)
+plot(Cities$X,Cities$City, xlab="City Number", ylab="City Visits")
+barplot(Cities$Visits, names.arg = {Cities$City}, xlab= "Visits", ylab = "City",cex.names=0.45,las=2, space=1, horiz=FALSE)
 library(shiny)
 
 #Countries <- read.table("Countries.txt",header = TRUE, skip = 7, row.names = 1)
