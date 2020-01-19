@@ -12,6 +12,8 @@ shinyUI(navbarPage(
   tabPanel(
     title = "navbar1",
     sidebarPanel(width=4,
+                 
+    )
     )
   tabPanel(
     title = "navbar2",
