@@ -12,7 +12,8 @@ shinyUI(navbarPage(
   tabPanel(
     title = "navbar1",
     sidebarPanel(width=4,
-                 
+              h1("Test1"),
+              uiOutput("timeSlider"),
     )
     )
   tabPanel(
