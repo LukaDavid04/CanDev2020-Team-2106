@@ -19,5 +19,17 @@ plot(Cities$X,Cities$City, xlab="City Number", ylab="City Visits")
 barplot(Cities$Visits, names.arg = {Cities$City}, xlab= "Visits", ylab = "City",cex.names=0.45,las=2, space=1, horiz=FALSE)
 library(shiny)
 
+shinyServer(function(input, output, sessions) {
+  output$yearSlider <- renderUI({
+    sliderInput(inputID = "year.in",
+                label = "Year Slider",
+                min = 1,
+                max = 10,
+                step = 1,
+                value = c(1,10),
+                ticks = T,
+                sep = "")
+    })
+  
 #Countries <- read.table("Countries.txt",header = TRUE, skip = 7, row.names = 1)
 #head(Countries)
