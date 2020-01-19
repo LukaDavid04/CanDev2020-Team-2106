@@ -7,4 +7,9 @@ require(DT)
 require(leaflet)
 
 shinyUI(navbarPage(
-title = "Temp"
+  title = "Temp",
+  theme = shinytheme("superhero"),
+  tabPanel(
+    title = "navbar1",
+    sidebarPanel(width=4,
+    )
