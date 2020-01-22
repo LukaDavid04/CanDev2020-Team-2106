@@ -1,0 +1,62 @@
+Possible Data Correlations:
+	Facebook: 
+Length of video x Length of time watched 
+Correlations: What length holds viewers the longest (what demographic would this impact)
+
+Information is Power (Digital Age) - Main Theme
+Regardless of how much information you have, it can be analyzed 
+
+ISED INFORMATION:
+They are a company about funding a wide variety of fields
+ Purpose is to grow and develop all aspects of Canada
+
+Ideas:
+Bot that searches the web for fields that are attracting attention
+
+Location Information:
+21% of visits come from Toronto, ON
+8 % of visits come from Montreal, Quebec
+6 % of visits come from Ottawa, ON
+5 % of visits come from Providence, Utah
+3% of visits come from Seattle, Washington
+Targeting area specific audiences can make for good responses for events
+Knowing the area and the audience within it allows you to target audience specific qualities 
+You could be analyzing internet traffic in the specific area if you know that the area is highly interested in your company
+Huge North American Presence
+92 % of visits are from Canada and US 
+Targeting areas globally becomes possibility 
+Shows weakness in global outreach of company
+Of top 50 Cities only 2 are not Within Canada or the US (0.02%)
+
+Simple appearance
+Obvious, clear conclusion of the data rather than giving the solution
+“Telling the story”
+Visual representations on the dashboard
+Pi charts
+Presentation
+“If i had x data, then the y correlation could have been determined”
+Use the data that we already have to create the dashboard
+1 page
+Data with value
+3 minutes to present
+Important stuff
+
+Automation of the process
+Importing information on excel
+
+
+
+Way to look at a narrative
+-not one data set
+-use as much of the data as you were given
+-don’t fix the problems, find the problems in the correlations
+-keep it simple
+-story/pretty things
+-tell us the story of the data
+-diagnose the data
+-descriptive analytics (don’t worry about the creative)
+-think about what data can be useful in the future (age, gender) (future trends)
+-most valuable insights
+-automates (elements of interactivity)
+-POR (what’s working well and what’s not working well) (cleanest data sets) (What canadians want and don’t want) 
+
