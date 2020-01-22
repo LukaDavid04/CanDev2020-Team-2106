@@ -16,8 +16,8 @@ setwd("C:/Users/Cheta/OneDrive/Hackathons/canDEV")
 Cities <- read.csv("Cities.csv",header=TRUE,sep=",",skip = 7,nrows=10)
 Cities
 plot(Cities$X,Cities$City, xlab="City Number", ylab="City Visits")
-barplot(Cities$Visits, names.arg = {Cities$City}, xlab= "Visits", ylab = "City",cex.names=0.45,las=2, space=1, horiz=FALSE)
-library(shiny)
+barplot(Cities$Visits, names.arg = {Cities$City}, ylab= "Visits", xlab = "City",cex.names=0.45,las=2, space=1, horiz=FALSE,cex.axis=0.5)
+
 
 shinyServer(function(input, output, sessions) {
   output$yearSlider <- renderUI({
@@ -31,5 +31,4 @@ shinyServer(function(input, output, sessions) {
                 sep = "")
     })
   
-#Countries <- read.table("Countries.txt",header = TRUE, skip = 7, row.names = 1)
-#head(Countries)
+
